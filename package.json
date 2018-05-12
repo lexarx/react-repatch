@@ -1,6 +1,6 @@
 {
 	"name": "react-repatch",
-	"version": "1.0.0",
+	"version": "1.0.3",
 	"description": "react-redux optimized for repatch.",
 	"keywords": [
 		"react",
