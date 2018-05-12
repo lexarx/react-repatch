@@ -1,0 +1,17 @@
+{
+	"name": "react-repatch",
+	"version": "1.0.0",
+	"description": "react-redux optimized for repatch.",
+	"keywords": [
+		"react",
+		"repatch"
+	],
+	"author": "Alexey Nichiporchik",
+	"bugs": "https://github.com/lexarx/react-repatch/issues",
+	"license": "MIT",
+	"main": "react-repatch.js",
+	"repository": "lexarx/react-repatch",
+	"dependencies": {
+		"react-redux": "^5.0.7"
+	}
+}
